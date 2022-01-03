@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Welcome to my github profile. I'm Daniel Jeong.   
+### Welcome to my github profile.
 I'm a student studying to become a full-stack web developer. Living in Suwon, South Korea.   
 Currently learning React, Redux, Node.js, etc.
 
