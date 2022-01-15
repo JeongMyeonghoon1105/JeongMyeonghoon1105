@@ -9,7 +9,7 @@ Currently learning React, Redux, Node.js, etc.
 ### Education & Experiences
 Undergraduate at UNIVERSITY OF SEOUL (2022 - &nbsp;&nbsp;)   
 Korea Air Force Military Service (2020.02 - 2021.09)    
-Currently building several web pages through React, Node.js, MongoDB.  
+Currently building several web pages through React, Node.js, MongoDB, etc.  
 Wish to experience a lot more through web development.   
 
 <br/>
