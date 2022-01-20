@@ -7,7 +7,7 @@ Currently learning React, Redux, Node.js, etc.
 <br/>
 
 ### Education & Experiences
-Undergraduate at UNIVERSITY OF SEOUL (2022 - &nbsp;&nbsp;)   
+UNIVERSITY OF SEOUL (Undergraduate/2022 - )   
 Korea Air Force Military Service (2020.02 - 2021.09)    
 Currently building several web pages through React, Node.js, MongoDB, etc.  
 Wish to experience a lot more through web development.   
@@ -32,10 +32,6 @@ wjdaudgns1105@naver.com
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=JeongMyeonghoon1105)](https://github.com/JeongMyeonghoon1105/github-readme-stats)
 
 <br/>
-
-### Fun Fact
-My major is Social Welfare... but I find this stuff interesting..
-
 
 <!--
 **JeongMyeonghoon1105/JeongMyeonghoon1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
