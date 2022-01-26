@@ -1,7 +1,7 @@
 ## Hi there!
 
 ### Welcome to my github profile.
-I'm a student studying to become a full-stack web developer. Living in Suwon, South Korea.   
+I'm a student studying to become a software engineer. Living in Suwon, South Korea.   
 Currently learning React, Redux, Node.js, etc.
 
 <br/>
@@ -9,7 +9,7 @@ Currently learning React, Redux, Node.js, etc.
 ### Education & Experiences
 UNIVERSITY OF SEOUL (Undergraduate / 2022 - )   
 Korea Air Force Military Service (2020.02 - 2021.09)    
-Currently building several web pages through React, Node.js, MongoDB, etc.  
+Currently building several web pages through React, Node.js, MySQL, etc.  
 Wish to experience a lot more through web development.   
 
 <br/>
