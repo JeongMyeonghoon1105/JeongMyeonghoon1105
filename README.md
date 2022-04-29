@@ -9,7 +9,7 @@ Currently learning React, Redux, Node.js, etc.
 ### Education & Experiences
 UNIVERSITY OF SEOUL (Undergraduate / 2022 - )   
 Academy Instructor (Dongtan Coding Lab / 2022 - )   
-Korea Air Force Military Service (USAF Osan AB / 2020.02 - 2021.09)   
+Korea Air Force Military Service (OSAN AB / 2020.02 - 2021.09)   
 
 <br/>
 
