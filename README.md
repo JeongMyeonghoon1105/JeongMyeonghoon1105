@@ -14,7 +14,7 @@ Korea Air Force Military Service (OSAN AB / 2020.02 - 2021.09)
 <br/>
 
 ### Contacts
-wjdaudgns1105@naver.com
+wjdaudgns1105@gmail.com
 
 <br/>
 
