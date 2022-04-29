@@ -2,7 +2,7 @@
 
 ### Welcome to my github profile.
 I'm a college student living in Suwon, South Korea.   
-Studying to become a software engineer
+Studying to become a software engineer.
 
 <br/>
 
