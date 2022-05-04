@@ -8,7 +8,7 @@ I've been teaching C, Arduino, Python, OpenCV, etc. at academy.
 <br/>
 
 ### Education & Experiences
-UNIVERSITY OF SEOUL (Undergraduate / 2022 - )   
+UNIVERSITY OF SEOUL (Undergraduate Admission Scholarship Recipient / 2022 - )   
 Academy Instructor (Dongtan Coding Lab / 2022 - )   
 Korea Air Force Military Service (OSAN AB / 2020.02 - 2021.09)   
 
