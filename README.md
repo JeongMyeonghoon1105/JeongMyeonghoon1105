@@ -7,8 +7,12 @@ I've been teaching C, OpenCV, Tensorflow, etc. at software academy.
 
 <br/>
 
-### Education & Experiences
+### Education
 UNIVERSITY OF SEOUL (Undergraduate / 2022 - )   
+
+<br/>
+
+### Experiences
 Software Academy Instructor (Dongtan Coding Lab / 2022 - )   
 Korea Air Force Military Service (OSAN AB / 2020.02 - 2021.09)   
 
