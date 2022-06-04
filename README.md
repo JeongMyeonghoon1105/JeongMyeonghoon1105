@@ -14,6 +14,7 @@ UNIVERSITY OF SEOUL (Undergraduate / 2022 - )
 
 ### Experiences
 Software Academy Instructor (Dongtan Coding Lab / 2022 - )   
+Web Developer & Manager (Dongtan Coding Lab / 2022 - )
 Korea Air Force Military Service (OSAN AB / 2020.02 - 2021.09)   
 
 <br/>
