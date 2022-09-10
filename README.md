@@ -8,7 +8,8 @@ I've been teaching C, OpenCV, Tensorflow, etc. at software academy.
 <br/>
 
 ### Education
-UNIVERSITY OF SEOUL (Undergraduate / 2022 - )   
+UNIVERSITY OF SEOUL (Social Welfare / B.A.)   
+BDES (Computer Science / B.S.)   
 
 <br/>
 
