@@ -3,7 +3,7 @@
 ### Welcome to my github profile.
 I'm a college student living in Suwon, South Korea.   
 Studying to become a software engineer.   
-I've been teaching C, OpenCV, Tensorflow, etc. at software academy.
+I've been teaching C, OpenCV, Tensorflow, etc. at software class.
 
 <br/>
 
@@ -13,7 +13,7 @@ UNIVERSITY OF SEOUL (Undergraduate / 2022 - )
 <br/>
 
 ### Experiences
-Software Academy Instructor (2022 - )   
+Software Class Instructor (2022 - )   
 Web Developer & Manager (2022 - )   
 Korea Air Force Military Service (OSAN AB / 2020 - 2021)   
 
