@@ -1,4 +1,4 @@
-## Welcome to my github profile
+## Welcome to My Github Profile!
 
 ### Portfolio
 > https://github.com/JeongMyeonghoon1105/Portfolio
@@ -6,7 +6,7 @@
 <br/>
 
 ### Education
-UNIVERSITY OF SEOUL (Undergraduate / 2022 - )
+UNIVERSITY OF SEOUL (Undergraduate)
 
 <br/>
 
