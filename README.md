@@ -1,9 +1,7 @@
-## Hi there!
+## Welcome to my github profile
 
-### Welcome to my github profile.
-I'm a college student living in Suwon, South Korea.   
-Studying to become a software engineer.   
-I've been teaching C, OpenCV, Tensorflow, etc. at software class.
+### Portfolio
+> https://github.com/JeongMyeonghoon1105/Portfolio
 
 <br/>
 
