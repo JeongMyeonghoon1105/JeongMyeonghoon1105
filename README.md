@@ -1,6 +1,3 @@
-# Welcome to My Github Profile!
-   
-
 ## Portfolio
 > https://github.com/JeongMyeonghoon1105/Portfolio
 
