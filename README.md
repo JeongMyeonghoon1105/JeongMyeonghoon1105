@@ -1,28 +1,28 @@
-## Welcome to My Github Profile!
+# Welcome to My Github Profile!
 
-### Portfolio
+## Portfolio
 > https://github.com/JeongMyeonghoon1105/Portfolio
 
 <br/>
 
-### Education
+## Education
 UNIVERSITY OF SEOUL (Undergraduate)
 
 <br/>
 
-### Experiences
+## Experiences
 Software Class Instructor (2022 - )   
 Web Developer & Manager (2022 - )   
 Korea Air Force Military Service (OSAN AB / 2020 - 2021)   
 
 <br/>
 
-### Contacts
+## Contacts
 wjdaudgns1105@gmail.com
 
 <br/>
 
-### Technology Stack
+## Technology Stack
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/python-232F3E?style=for-the-badge&logo=python&logoColor=white">   
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
